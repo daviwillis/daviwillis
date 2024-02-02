@@ -6,13 +6,13 @@
 - 🚀 I’m currently learning **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus** | 🚀 Atualmente estou aprendendo **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus**
   
 
-- 👨‍💻 All of my projects are available at [https://github.com/daviwillis?tab=repositories](https://github.com/daviwillis?tab=repositories) | 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/daviwillis?tab=repositories](https://github.com/daviwillis?tab=repositories)
+- 👨‍💻 All of my projects are available at [my github repo](https://github.com/daviwillis?tab=repositories) | 👨‍💻 Todos os meus projetos estão disponíveis no meu [repositório github](https://github.com/daviwillis?tab=repositories)
 
 - 📫 How to reach me **daviwillis@protonmail.com** | 📫 Como entrar em contato **daviwillis@protonmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/davibnascimento/](https://www.linkedin.com/in/davibnascimento/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/davibnascimento/)
 
-- 📄 Conheça minhas experiências **https://www.linkedin.com/in/davibnascimento/**
+- 📄 Conheça minhas experiências [aqui](https://www.linkedin.com/in/davibnascimento)
 
 <h3 align="left">Connect with me | Conecte-se comigo:</h3>
 <p align="left">
