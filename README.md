@@ -10,9 +10,8 @@
 
 - 📫 How to reach me **daviwillis@protonmail.com** | 📫 Como entrar em contato **daviwillis@protonmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/davibnascimento/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/davibnascimento/) | 📄 Conheça minhas experiências [aqui](https://www.linkedin.com/in/davibnascimento)
 
-- 📄 Conheça minhas experiências [aqui](https://www.linkedin.com/in/davibnascimento)
 
 <h3 align="left">Connect with me | Conecte-se comigo:</h3>
 <p align="left">
