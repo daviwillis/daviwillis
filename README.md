@@ -1,21 +1,14 @@
 <h1 align="center">👋 I'm | Eu sou o Davi</h1>
-<h3 align="center">Um desenvolvedor full-stack | A Brazilian full-stack developer</h3>
+<h3 align="center">A Brazilian full-stack developer | Um desenvolvedor full-stack  </h3>
 
-- 🛠 I’m currently working on **JS, TS, Java, etc.**
+- 🛠 I’m currently working on **JS, TS, Java, etc.** | 🛠 Atualmente estou trabalhando com **JS, TS, Java, etc.**
 
-- 🛠 Atualmente estou trabalhando com **JS, TS, Java, etc.**
+- 🚀 I’m currently learning **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus** | 🚀 Atualmente estou aprendendo **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus**
+  
 
-- 🚀 I’m currently learning **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus**
+- 👨‍💻 All of my projects are available at [https://github.com/daviwillis?tab=repositories](https://github.com/daviwillis?tab=repositories) | 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/daviwillis?tab=repositories](https://github.com/daviwillis?tab=repositories)
 
-- 🚀 Atualmente estou aprendendo **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus**
-
-- 👨‍💻 All of my projects are available at [https://github.com/daviwillis?tab=repositories](https://github.com/daviwillis?tab=repositories)
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/daviwillis?tab=repositories](https://github.com/daviwillis?tab=repositories)
-
-- 📫 How to reach me **daviwillis@protonmail.com**
-
-- 📫 Como entrar em contato **daviwillis@protonmail.com**
+- 📫 How to reach me **daviwillis@protonmail.com** | 📫 Como entrar em contato **daviwillis@protonmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/davibnascimento/](https://www.linkedin.com/in/davibnascimento/)
 
