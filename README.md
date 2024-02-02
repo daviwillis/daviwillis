@@ -3,7 +3,7 @@
 
 - 🛠 I’m currently working on **JS, TS, Java, etc.** | 🛠 Atualmente estou trabalhando com **JS, TS, Java, etc.**
 
-- 🚀 I’m currently learning **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus** | 🚀 Atualmente estou aprendendo **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus**
+- 🚀 I’m improving my skills in **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus** | 🚀 Estou aperfeiçoando minhas habilidades em **React(Next.js), Tailwind, AdonisJS, NestJS, Quarkus**
   
 
 - 👨‍💻 All of my projects are available at [my github repo](https://github.com/daviwillis?tab=repositories) | 👨‍💻 Todos os meus projetos estão disponíveis no meu [repositório github](https://github.com/daviwillis?tab=repositories)
