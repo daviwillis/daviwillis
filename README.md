@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Davi| Eu sou o Davi</h1>
+<h1 align="center">👋 I'm Davi | Eu sou o Davi</h1>
 <h3 align="center">A Brazilian full-stack developer | Um desenvolvedor full-stack  </h3>
 
 - 🛠 I’m currently working on **JS, TS, Java, etc.** | 🛠 Atualmente estou trabalhando com **JS, TS, Java, etc.**
